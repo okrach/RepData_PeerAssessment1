@@ -4,7 +4,9 @@ output:
   html_document:
     keep_md: true
 ---
-
+```{r}
+print("Hello world!")
+```
 
 ## Loading and preprocessing the data
 
